@@ -1,0 +1,124 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "category": "Mental Health and Awareness",
+      "image": "https://www.jkcf.org/wp-content/uploads/2023/05/mental-health-month-1024x576.png",
+      "content": "Understanding mental health starts with recognizing emotional well-being"
+    },
+    {
+      "id": 2,
+      "category": "Mental Health and Awareness",
+      "image": "https://images.squarespace-cdn.com/content/v1/562967b9e4b0c11a7cc69387/1557517656938-F5UQ7HWSQ6644GPYD0WC/ke17ZwdGBToddI8pDm48kOqzpq1fzEbvJSAWmexYTfZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UXrwy2gLWTQXObSAIZNB37JSaXbpov8ksI2reTXj7uFSMvjxfo_Vt2RVICoIXZCyuA/may-mental-health.jpg?format=original",
+      "content": "Therapy and open conversations can significantly improve mental resilience"
+    },
+    {
+      "id": 3,
+      "category": "Mental Health and Awareness",
+      "image": "https://www.verywellmind.com/thmb/-l5u3r_RmWk_SVYMW6Z7r-qz9Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/coping-with-anxiety-5019462-V2-66d06253c4c14a20ae3b24e04258b1b4.jpg",
+      "content": "Learning effective coping strategies can help manage anxiety and stress"
+    },
+    {
+      "id": 4,
+      "category": "Mental Health and Awareness",
+      "image": "https://www.webmd.com/mental-health/ss/slideshow-mental-health",
+      "content": "Early intervention is crucial for better mental health outcomes"
+    },
+    {
+      "id": 5,
+      "category": "Mental Health and Awareness",
+      "image": "https://www.nimh.nih.gov/news/science-news/2021/thumbnail-1200x628-four-ways-to-support-mental-health-wellbeing.jpg",
+      "content": "Creating a supportive environment promotes mental wellness"
+    },
+    {
+      "id": 6,
+      "category": "Relationships and Dating",
+      "image": "https://thecontentpanel.com/wp-content/uploads/2021/11/Our-Ultimate-List-101-Love-Relationships-and-Dating-Blog-Post-Ideas-feat.jpg",
+      "content": "Building strong relationships requires trust, patience, and respect"
+    },
+    {
+      "id": 7,
+      "category": "Relationships and Dating",
+      "image": "https://www.psychologytoday.com/us/blog/compassion-matters/202008/the-relationship-advice-you-need-right-now",
+      "content": "Effective communication is the foundation of healthy relationships"
+    },
+    {
+      "id": 8,
+      "category": "Relationships and Dating",
+      "image": "https://www.herheartland.com/wp-content/uploads/2020/09/How-to-Maintain-a-Healthy-Relationship-in-Turbulent-Times.jpg",
+      "content": "Navigating relationships through challenging times requires empathy and understanding"
+    },
+    {
+      "id": 9,
+      "category": "Relationships and Dating",
+      "image": "https://www.menshealth.com/wp-content/uploads/2022/03/ways-to-know-when-to-end-a-relationship.jpg",
+      "content": "Recognizing when to let go is an important relationship skill"
+    },
+    {
+      "id": 10,
+      "category": "Relationships and Dating",
+      "image": "https://www.allure.com/thmb/D54UO-0-zlDy9rLbOVqX9NQ5pRNd1fR4/2000x1333/filters:no_upscale():max_bytes(150000):strip_icc()/gettyimages-1001034778-2000x1333-be9e5324f5954ce9811c48dad85e7d18.jpg",
+      "content": "Setting boundaries creates healthier and more fulfilling relationships"
+    },
+    {
+      "id": 11,
+      "category": "Technology and Innovation",
+      "image": "https://alcorfund.com/wp-content/uploads/2020/09/Technical-Innovation.png",
+      "content": "Technology is rapidly evolving, connecting people in innovative ways"
+    },
+    {
+      "id": 12,
+      "category": "Technology and Innovation",
+      "image": "https://www.computerweekly.com/images/id-t124067202-620-80/ComputerWeekly-computer-weekly-IT.jpg",
+      "content": "Artificial intelligence is transforming industries across the globe"
+    },
+    {
+      "id": 13,
+      "category": "Technology and Innovation",
+      "image": "https://www.pexels.com/photo/person-using-digital-tablet-3118031/",
+      "content": "Digital transformation is reshaping how businesses operate"
+    },
+    {
+      "id": 14,
+      "category": "Technology and Innovation",
+      "image": "https://www.pexels.com/photo/programming-code-on-computer-screen-3118031/",
+      "content": "Cybersecurity remains a critical concern in the digital age"
+    },
+    {
+      "id": 15,
+      "category": "Technology and Innovation",
+      "image": "https://www.pexels.com/photo/person-working-on-laptop-3118031/",
+      "content": "Remote work technologies are becoming the new norm"
+    },
+    {
+      "id": 16,
+      "category": "Fashion and Pop Culture",
+      "image": "https://www.iiad.edu.in/wp-content/uploads/2022/03/Page-1-Image-1-1024x879.webp",
+      "content": "Pop culture shapes trends in fashion, music, and lifestyle choices globally"
+    },
+    {
+      "id": 17,
+      "category": "Fashion and Pop Culture",
+      "image": "https://www.vogue.com/article/fashion-trends-fall-2023",
+      "content": "Sustainability is becoming a key focus in fashion industry"
+    },
+    {
+      "id": 18,
+      "category": "Fashion and Pop Culture",
+      "image": "https://www.popsugar.com/fashion/photo-gallery/47640192/image/47640203/2023-Fashion-Trends",
+      "content": "Streetwear continues to influence mainstream fashion"
+    },
+    {
+      "id": 19,
+      "category": "Fashion and Pop Culture",
+      "image": "https://www.refinery29.com/en-us/wp-content/uploads/2023/08/1200x628-four-ways-to-support-mental-health-wellbeing.jpg",
+      "content": "Fashion weeks showcase innovation and creativity"
+    },
+    {
+      "id": 20,
+      "category": "Fashion and Pop Culture",
+      "image": "https://www.allure.com/thmb/D54UO-0-zlDy9rLbOVqX9NQ5pRNd1fR4/2000x1333/filters:no_upscale():max_bytes(150000):strip_icc()/gettyimages-1001034778-2000x1333-be9e5324f5954ce9811c48dad85e7d18.jpg",
+      "content": "Celebrity influence continues to drive fashion trends"
+    }
+  ]
+}
