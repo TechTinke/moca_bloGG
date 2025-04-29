@@ -99,25 +99,25 @@
     {
       "id": 17,
       "category": "Fashion and Pop Culture",
-      "image": "https://www.vogue.com/article/fashion-trends-fall-2023",
+      "image": "https://landing-page-backend.s3.ap-south-1.amazonaws.com/blog_page_prodimages/1e5aef9c-918e-4271-95c7-8487ff2bcc05/shutterstock_1387713926-1_auto.png",
       "content": "Sustainability is becoming a key focus in fashion industry"
     },
     {
       "id": 18,
       "category": "Fashion and Pop Culture",
-      "image": "https://www.popsugar.com/fashion/photo-gallery/47640192/image/47640203/2023-Fashion-Trends",
+      "image": "https://static01.nyt.com/images/2021/09/02/fashion/02DIVERSITY-FASHION-4/merlin_193911462_b01eac35-35de-4b4c-8cd4-6d456efce25f-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
       "content": "Streetwear continues to influence mainstream fashion"
     },
     {
       "id": 19,
       "category": "Fashion and Pop Culture",
-      "image": "https://www.refinery29.com/en-us/wp-content/uploads/2023/08/1200x628-four-ways-to-support-mental-health-wellbeing.jpg",
+      "image": "https://images.hellomagazine.com/horizon/landscape/cdd76fa0eaa8-hf-hfm-header-templates-2.jpg",
       "content": "Fashion weeks showcase innovation and creativity"
     },
     {
       "id": 20,
       "category": "Fashion and Pop Culture",
-      "image": "https://www.allure.com/thmb/D54UO-0-zlDy9rLbOVqX9NQ5pRNd1fR4/2000x1333/filters:no_upscale():max_bytes(150000):strip_icc()/gettyimages-1001034778-2000x1333-be9e5324f5954ce9811c48dad85e7d18.jpg",
+      "image": "https://www.phaidon.com/images/9781838664572/a/fashion.jpg",
       "content": "Celebrity influence continues to drive fashion trends"
     }
   ]
