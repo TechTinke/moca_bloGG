@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import { useFetch } from "../services/api";
+import { useFetch, addBlog, deleteBlog } from "./services/api";
 import BlogCard from "./BlogCard.jsx";
 import BlogForm from "./BlogForm.jsx";
 
